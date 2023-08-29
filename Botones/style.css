@@ -1,0 +1,51 @@
+.btn {
+  background-color: transparent;
+  padding:  10px 13px;
+  border: 1px solid #fff;
+  color: #FFF;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.btn-primary {
+  background-color: #0d6efd;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+}
+
+.btn-success {
+  background-color: #198754;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+}
+
+.btn-warning {
+  background-color: #ffc107;
+  color: black;
+}
+
+.btn-info {
+  background-color: #0dcaf0;
+  color: black;
+}
+
+.btn-light {
+  background-color: #f8f9fa;
+  color: black;
+}
+
+.btn-dark {
+  background-color: #212529;
+}
+
+.btn-link {
+  color: blue;
+  text-decoration: underline;
+}
